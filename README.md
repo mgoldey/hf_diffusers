@@ -1,6 +1,6 @@
 # Quick start
 
-This project demonstrates how to use [huggingface/diffusers]() for simple image generation from text phrases
+This project demonstrates how to use [huggingface/diffusers](https://github.com/huggingface/diffusers) for simple image generation from text phrases
 
 ## Requirements
 
